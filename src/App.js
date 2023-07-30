@@ -13,9 +13,6 @@ function App() {
     setInput(input + val);
   }
 
-// Cambio
-// Otro cambio
-
   return (
     <div className="App">
       <div className='logo-contenedor'>
